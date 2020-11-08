@@ -42,7 +42,7 @@ shipping_manifest[3] = {"muskets" => 2}
 
 
   # add 4 gun powder to the shipping_manifest hash below
-
+shipping_manifest[4] = {"gun powder" => 4}
 
 
   # return the shipping_manifest hash below
